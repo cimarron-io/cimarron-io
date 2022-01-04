@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-01-04T19:39:48+00:00</updated><id>/feed.xml</id><title type="html">Cimarrón IO</title><subtitle>Imaginemos cosas chingonas.</subtitle><entry><title type="html">Higher Ed Research Scripts</title><link href="/research-scripts/" rel="alternate" type="text/html" title="Higher Ed Research Scripts" /><published>2020-04-10T00:00:00+00:00</published><updated>2020-04-10T00:00:00+00:00</updated><id>/research-scripts</id><content type="html" xml:base="/research-scripts/"><![CDATA[<h5 id="about">About</h5>
+
+<p>A repository of python scripts used in higher education public policy analysis.</p>
+
+<h5 id="details">Details</h5>
+<ul>
+  <li><strong>Date:</strong> 2020</li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/chekos/hec-research-scripts">https://github.com/chekos/hec-research-scripts</a></li>
+</ul>
+
+<h4 id="description">Description</h4>
+
+<ul>
+  <li><strong>Public Policy Analysis</strong>
+Higher education.</li>
+  <li><strong>Python scripts</strong>
+and jupyter notebooks</li>
+  <li><strong>Data manipulation</strong>
+These scripts attempt include CLI tools that facilitate cleaning data from IPEDS.</li>
+</ul>
+
+<h5 id="contact">Contact</h5>
+
+<p>Owners:</p>
+
+<ul>
+  <li>Sergio Sánchez Zavala (<a href="https://github.com/chekos">https://github.com/chekos</a>)</li>
+</ul>
+
+<h5 id="license">License</h5>
+<p>GNU General Public License v3.0</p>]]></content><author><name></name></author><category term="public policy" /><category term="python" /><category term="higher education" /><summary type="html"><![CDATA[About]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/research-scripts.png" /><media:content medium="image" url="/research-scripts.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
