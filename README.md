@@ -50,7 +50,7 @@ If you need help, create an issue on the repo [cimarron-io/cimarron-io.github.io
 
 4. Create the file with the project information. This file must be saved on the folder [`_posts`](https://github.com/chekos/cimarron-io/tree/master/_posts) with the name format `YYYY-MM-DD-project-name.md`, where `YYYY`, `MM`, and `DD` are the Year, Month and Day you're adding the project to the folder. You can use the template file [template.md](https://github.com/chekos/cimarron-io/blob/master/_posts/2020-01-22-template.md).
 
-5. Create a Pull Request (PR) from your branch to the `master` branch of the orginal repo and add **@chekos** as a reviewer.
+5. Create a Pull Request (PR) from your branch to the `main` branch of the orginal repo and add **@chekos** as a reviewer.
 
 **NOTE:** Please use one PR per project.
 
