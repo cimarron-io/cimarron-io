@@ -31,7 +31,11 @@
     ></script>
   </head>
   <body>
-    <main role="main">{{ content }}</main>
+      <main role="main" style="display: flex; flex-direction: column; min-height: 100vh;">
+    <div style="flex-grow: 1;">
+      {{ content }}
+    </div>
+  </main>
     <!-- Footer -->
     <footer class="footer pt-5 pb-5 text-center">
       <div class="container">
